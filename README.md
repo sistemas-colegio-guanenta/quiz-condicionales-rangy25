@@ -11,9 +11,9 @@ b: digite segundo numero
 c: digite tercer numero
 
 variables de proceso
-a+b<c
-b+c<a
-c+a<b
+a+b>c
+b+c>a
+c+a>c
 
 procesos de salida
 triangulo: si es un triagulo o no es un triangulo
